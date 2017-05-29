@@ -8,3 +8,9 @@
 <a href="https://github.com/JameelNabbo/SmartWorm/">
 <img scr="https://raw.githubusercontent.com/JameelNabbo/SmartWorm/master/logo.jpg" alt="Smart Worm" />
  </a>
+<p align="center">
+    <a href="https://github.com/JameelNabbo/SmartWorm/">
+        <img src="https://raw.githubusercontent.com/JameelNabbo/SmartWorm/master/logo.jpg"
+             alt="Travis Build">
+    </a>
+</p>
