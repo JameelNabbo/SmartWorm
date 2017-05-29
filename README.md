@@ -1,5 +1,5 @@
 # SmartWorm
-#A smart worm script created in 2017 in Turkey 29-5-2017 in Linux Lab
+#A smart worm script created Turkey 29-5-2017 in Linux Lab
 #In European training center
 #A worm that can be used for educational propuses
 
