@@ -88,7 +88,8 @@ function DownloadList
      
      for i in "$(cat list.txt)"
 	do
-	wget -o temp/$i 
+    #You can add -b to make it in the background
+	wget -P temp/$i
 	done
 }
 
